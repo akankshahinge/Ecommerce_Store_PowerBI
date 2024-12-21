@@ -46,10 +46,10 @@ This project involves creating a Power BI dashboard to analyze data for an ecomm
 
 ### Bar Graphs
 1. **Profit by Month**:
-   - Highest profit was recorded in **December**.
+   - Highest profit was recorded in **November**.
    - Losses observed in **May**.
    - Significant profits in **January, February, and November**.
-   **Insight**: Profit trends are seasonal, with December being a peak month.
+   **Insight**: Profit trends are seasonal.
 
 2. **Sum of Amount by State**:
    - **Maharashtra** leads in total sales revenue.
